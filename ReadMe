@@ -1,3 +1,2 @@
 You can obviously change the number of the list to as many as you wish, I was just testing 5 numbers because is easy and quick to type 5 numbers to Test your code in every change you make. 
 Instead of i,j < 4 in for loops and nums=5, you could create the variable nums=0 and ask from the user the number of elements that user wants to input with scanf. Afterwards you can use this variable for i,j = 0; i,j < nums; i,j++
-
